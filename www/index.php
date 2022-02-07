@@ -70,6 +70,6 @@ if ($clientDBName == 'mohawk-mm_portal')
             }(jQuery)
         );
     </script>
-    <script src="//<?php echo $enConfigClient['environment']['site_portal']; ?>/lib/js/engage.php?client_name=mohawk-mm&client_id=9beb2c53b184deb77e3fbf266f879ae3" type="text/javascript"></script>
+    <script src="//<?php echo $enConfigClient['environment']['site_portal']; ?>/lib/js/engage.php?client_name=mohawk-mm&client_id=f72615bd93c416369297ca7b081ca7c6" type="text/javascript"></script>
 </body>
 </html>
