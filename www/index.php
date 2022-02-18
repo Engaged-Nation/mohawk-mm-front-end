@@ -29,6 +29,16 @@ $description = "Take a shot at becoming a millionaire during the men’s college
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#FFFFFF">
 
+    <script type='text/javascript'>
+    window.__lo_site_id = 325547;
+
+	(function() {
+		var wa = document.createElement('script'); wa.type = 'text/javascript'; wa.async = true;
+		wa.src = 'https://d10lpsik1i8c69.cloudfront.net/w.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(wa, s);
+	  })();
+	</script>
+    
 </head>
 <body>
     <div id="en-header-layout-container"></div>
